@@ -1,7 +1,6 @@
 Name: ProtoGame
 Author: Eric Ryan Harrison <me@ericharrison.info>
-www: 
-	http://ericharrison.info/projects/ProtoGame
+www: http://ericharrison.info/projects/ProtoGame
 
 About:
 	ProtoGame is a simple Javascript framework to
